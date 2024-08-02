@@ -3,7 +3,7 @@ A Chrome Extension for quickly capturing ideas, snippets, notes and more.
 
 Built in pure JS, HTML, CSS and utilising design system elements.
 
-Code cannot be shared due to organisational ownership, however feel free to check out the demo below, or download it for yourself from the Chrome store:
+Repo cannot be shared due to organisational ownership, however feel free to check out the demo below, or download it for yourself from the Chrome store:
 
 https://chromewebstore.google.com/detail/jot-ideas-by-sopheon/gnjijnnioodbjcpckbgocebjagigjhpl
 
